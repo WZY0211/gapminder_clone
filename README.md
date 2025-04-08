@@ -10,7 +10,7 @@
 - 依據 `environment.yml` 建立環境
 
 ```bash
-conda env create -f environment.yml`
+conda env create -f environment.yml
 ```
 
 - 將 `data/` 資料夾中的四個 CSV 檔案置放於工作目錄中的 `data/` 資料夾。
