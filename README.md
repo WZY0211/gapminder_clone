@@ -16,3 +16,5 @@ conda env create -f environment.yml
 - 將 `data/` 資料夾中的四個 CSV 檔案置放於工作目錄中的 `data/` 資料夾。
 - 啟動環境並執行 `python create_gapminder_db.py` 就能在 `data/` 資料夾中建立 `gapminder.db`
 - 啟動環境並執行 `python plot_with_px.py` 就能生成 `gapminder_clone.html`
+
+![](animation.gif)
