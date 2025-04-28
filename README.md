@@ -18,5 +18,6 @@ conda env create -f environment.yml
 - 啟動環境並執行 `python plot_with_px.py` 就能生成 `gapminder_clone.html`
 
 ![](animation.gif)
-[](https://wzy0211.github.io/gapminder_clone/gapminder_clone.html)
+- [動態氣泡圖](https://wzy0211.github.io/gapminder_clone/gapminder_clone.html)
+  
 分析:雖然過程起伏動盪，但明顯的趨勢是絕大部分的國家都在往右上角「富裕且長壽」的象限移動
