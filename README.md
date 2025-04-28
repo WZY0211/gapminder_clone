@@ -18,3 +18,4 @@ conda env create -f environment.yml
 - 啟動環境並執行 `python plot_with_px.py` 就能生成 `gapminder_clone.html`
 
 ![](animation.gif)
+![](https://wzy0211.github.io/gapminder_clone/gapminder_clone.html)
